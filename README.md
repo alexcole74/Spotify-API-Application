@@ -20,4 +20,4 @@ Currently consists of a login system and page through the Spotify interface then
 
 # Takeaways
 
-This project was really fun for me as I was able about publicly accessible API endpoints and got to experiment with endpoints, and authorization tokens, and see my own music data on my application. I was able to practice my web skills with a small flask app using python and html templating. Hopefully in the future I can expand upon this to allow for creation of playlists, listening to demos of songs on the app, and adding songs to playlists on the app.
+This project was really fun for me as I was able to learn about publicly accessible API endpoints and got to experiment with endpoints, and authorization tokens, and see my own music data on my application. I was able to practice my web skills with a small flask app using python and html templating. Hopefully in the future I can expand upon this to allow for creation of playlists, listening to demos of songs on the app, and adding songs to playlists on the app.
